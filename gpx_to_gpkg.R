@@ -26,7 +26,7 @@ tracks_list <- lapply(gpx_files, function(path) {
         dist = st_length(tracks_df_raw),
         ascent = calculate_elevation_gain(track_points_df_raw),
         descent = calculate_elevation_gain(track_points_df_raw, ascent = FALSE),
-        dist_label = paste0(round(as.numeric(dist) / 1000, 2), " km ",
+        dist_label = paste0(round(as.numeric(dist) / 1000, 2), " km\n",
                             "(", round(ascent, 1), " m ↑, ",
                             round(descent, 1), " m ↓", ")"),
       ) %>%
