@@ -1,10 +1,10 @@
-nr;start;end;date
-1;Tamatert;Tacheddirt;31/05/2025
-2;Tacheddirt;Timichi;1/06/2025
-3;Timichi;Setti Fatma;2/06/2025
-4;Setti Fatma;Oum Chichka;3/06/2025
-5;Oum Chichka;Azib Likemt;4/06/2025
-6;Azib Likemt;Amsouzart;5/06/2025
-7;Amsouzart;Lac d'Ifni;6/06/2025
-8;Lac d'Ifni;Toubkal;7/06/2025
-9;Toubkal;Aroumd;8/06/2025
+nr;start;end;date;dist;ascent;descent
+1;Tamatert;Tacheddirt;31/05/2025;9,64;712;201
+2;Tacheddirt;Timichi;1/06/2025;14,27;775;1193
+3;Timichi;Setti Fatma;2/06/2025;10,19;44;509
+4;Setti Fatma;Oum Chichka;3/06/2025;15,79;1174;160
+5;Oum Chichka;Azib Likemt;4/06/2025;11,25;775;784
+6;Azib Likemt;Amsouzart;5/06/2025;16,74;592;1357
+7;Amsouzart;Lac d'Ifni;6/06/2025;13,1;1193;173
+8;Lac d'Ifni;Toubkal;7/06/2025;11,62;1394;1142
+9;Toubkal;Aroumd;8/06/2025;19,99;1325;2429
